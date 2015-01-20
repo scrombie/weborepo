@@ -1,0 +1,1 @@
+This is the readme for the sample git repo created during the git training blah blah blah
